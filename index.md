@@ -6,3 +6,6 @@
 $ git init
 Initialized empty Git repository in /Users/oleodagreat/Documents/GitHub
 ```
+- [ ] Ensure all boxes are checked 
+- [ ] Consult everyone involved
+- [ ] Speak to the councel
